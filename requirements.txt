@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+requests
+beautifulsoup4
+yfinance
+scikit-learn
+spacy
+transformers
+sec-edgar-downloader
+plotly
+matplotlib
+seaborn
+# nltk

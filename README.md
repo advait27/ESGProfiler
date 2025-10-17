@@ -93,7 +93,7 @@ text
 
 ## License
 
-MIT License © 2025 Advait Dharmadhikari
+MIT License © 2025 Your Name
 
 ---
 
